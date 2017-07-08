@@ -1,7 +1,7 @@
 #!/bin/sh
 
 ################################################################################
-# Name           : ScriptTemplate.sh                                               #
+# Name           : ScriptTemplate.sh                                           #
 # Author         : Kundan Chaulya                                              #
 # Description    :                                                             #
 # Exit Code      :                                                             #
